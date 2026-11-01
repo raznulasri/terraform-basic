@@ -2,6 +2,14 @@
 
 A lightweight, automated Terraform configuration designed to rapidly spin up an isolated AWS sandbox environment for Docker containerization and general testing workflows.
 
+## 📌 Prerequisites
+
+Before getting started, make sure you have the following installed on your local machine:
+
+* **Terraform**: [Official Terraform Installation Guide](https://developer.hashicorp.com/terraform/install)
+
+---
+
 ## 🚀 Quick Start
 
 Clone the repository and initialize Terraform:
