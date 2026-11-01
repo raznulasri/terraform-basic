@@ -1,4 +1,4 @@
-testing aws cloud server for docker or else
+Fast AWS server setup for Docker and general testing.
 
 what inside. please use terraform to create.
 
