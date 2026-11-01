@@ -1,4 +1,4 @@
-# Fast AWS ubuntu setup for Docker and general testing (Terraform)
+# Fast AWS Ubuntu setup for Docker and general testing (Terraform)
 
 A lightweight, automated Terraform configuration designed to rapidly spin up an isolated AWS sandbox environment for Docker containerization and general testing workflows.
 
