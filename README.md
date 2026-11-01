@@ -3,3 +3,7 @@ testing aws cloud server for docker or else
 what inside. please use terraform to create.
 
 vpc + public subnet + ubuntu latest
+
+```
+git clone git@github.com:raznulasri/terraform-basic.git /tmp/terraform-basic && cd /tmp/terraform-basic && terraform init
+```
